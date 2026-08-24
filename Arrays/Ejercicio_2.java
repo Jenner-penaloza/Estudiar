@@ -1,8 +1,6 @@
-import java.util.Scanner;
-
 public class Ejercicio_2 {
     public static void main(String[] args){
-        Scanner entrada = new Scanner(System.in);
+        
 
         int [] arr = new int [10];
 
@@ -27,6 +25,6 @@ public class Ejercicio_2 {
             System.out.println("n:" + n);
         }
 
-        entrada.close();
+        
     }
 }
