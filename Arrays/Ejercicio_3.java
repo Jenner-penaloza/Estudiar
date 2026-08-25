@@ -3,7 +3,7 @@
 public class Ejercicio_3 {
     public static void main(String[] args){
 
-        int size = 10;
+        int size = 30;
         int [] primos = new int[size];
         int contador = 0;
 
