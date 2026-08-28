@@ -1,0 +1,8 @@
+org.cinnamon.desktop.peripherals.mouse accel-profile 'flat'
+org.cinnamon.desktop.peripherals.mouse double-click 539
+org.cinnamon.desktop.peripherals.mouse drag-threshold 8
+org.cinnamon.desktop.peripherals.mouse left-handed false
+org.cinnamon.desktop.peripherals.mouse locate-pointer false
+org.cinnamon.desktop.peripherals.mouse middle-click-emulation false
+org.cinnamon.desktop.peripherals.mouse natural-scroll false
+org.cinnamon.desktop.peripherals.mouse speed 1.0

@@ -1,0 +1,11 @@
+org.cinnamon.desktop.peripherals.touchpad click-method 'default'
+org.cinnamon.desktop.peripherals.touchpad disable-while-typing true
+org.cinnamon.desktop.peripherals.touchpad edge-scrolling-enabled false
+org.cinnamon.desktop.peripherals.touchpad left-handed 'mouse'
+org.cinnamon.desktop.peripherals.touchpad middle-click-emulation false
+org.cinnamon.desktop.peripherals.touchpad natural-scroll true
+org.cinnamon.desktop.peripherals.touchpad send-events 'enabled'
+org.cinnamon.desktop.peripherals.touchpad speed 0.52055555555555544
+org.cinnamon.desktop.peripherals.touchpad tap-and-drag true
+org.cinnamon.desktop.peripherals.touchpad tap-to-click true
+org.cinnamon.desktop.peripherals.touchpad two-finger-scrolling-enabled true
