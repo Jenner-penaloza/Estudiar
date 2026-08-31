@@ -6,7 +6,7 @@ public class Ejercicio_11 {
     public static void main(String[] args){
         Scanner entrada = new Scanner(System.in);
 
-        String [] caracter = new String [5];
+        String [] caracter = new String [2];
 
         for(int i = 0; i < caracter.length; i++){
             System.out.print("Ingrese una palabra: ");
