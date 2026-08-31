@@ -18,7 +18,7 @@ public class Ejercicio_8 {
 
             arr[i] = nombre;
         }
-
+        
         System.out.println("");
 
         System.out.print("Ingrese el nombre a buscar: ");
