@@ -8,13 +8,19 @@ public class Ejercicio_3 {
                 //System.out.println("Ciclo: " + i + " Interación: " + j);
                 int a = 0;
                 int b = 0;
-
+                
                 if (numeros[j] > numeros[j+1]){
+                    
                     a = numeros[j];
                     b = numeros[j+1];
 
                     numeros[j] = b;
                     numeros[j+1] = a;
+                    System.out.println(true);
+                }
+
+                else{
+                    System.out.println(false);
                 }
             }
             
