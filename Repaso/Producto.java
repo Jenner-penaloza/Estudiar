@@ -19,7 +19,7 @@ public class Producto {
         System.out.println("Nombre: "+ this.nombre);
         System.out.println("Precio: " + this.precio);
         System.out.println("Cantidad: " + this.cantidad);
-        System.out.println("Total: " + calcularTotal());
+        //System.out.println("Total: " + calcularTotal());
     }
 
 }

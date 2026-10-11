@@ -16,9 +16,10 @@ public class Main {
 
         Producto p1 = new Producto(nombre, precio, cantidad);
 
-        p1.calcularTotal();
+        double total = p1.calcularTotal();
 
         p1.mostrarInformación();
+        System.out.println("Total " + total);
 
 
         entrada.close();
